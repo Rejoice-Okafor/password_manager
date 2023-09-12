@@ -1,13 +1,17 @@
 # Password_manager
 
-**Overview
+**Overview**
 This is a simple password manager application built in Python using the Tkinter library for the graphical user interface. The application allows users to securely store and retrieve website login information, including website URLs, email addresses, usernames, and generated or user-defined passwords.
 
-##Features
+**Features**
 a) Generate strong, random passwords.
+
 b) Store and retrieve login information for various websites.
+
 c) User-friendly graphical interface.
+
 d) Securely store data locally in a JSON file (data.json).
+
 ##Requirements
 Python 3.x
 Tkinter library (included in Python's standard library)
