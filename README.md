@@ -20,7 +20,7 @@ Python 3.x
 
 Tkinter library (included in Python's standard library)
 
-**GETTING STARTEDd**
+**GETTING STARTED**
 
 Clone or download this repository to your local machine.
 
